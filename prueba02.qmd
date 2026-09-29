@@ -1,6 +1,6 @@
 ---
 title: "Documento Quarto"
-format: typst
+format: pdf
 ---
 
 ## Quarto
