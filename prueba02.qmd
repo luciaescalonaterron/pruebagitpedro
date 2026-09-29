@@ -1,6 +1,6 @@
 ---
 title: "Documento Quarto"
-format: html
+format: typst
 ---
 
 ## Quarto
